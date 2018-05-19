@@ -1,0 +1,148 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6520G (ID=0x9647)
+    Vendor:   ATI
+    VRAM:     1267 MB
+    Driver:   15.201.1151.0
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\KULIAH\SEMESTER 4\MULTIMEDIA TERAPAN\uas game\game - Reza\tugasgame\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\KULIAH\SEMESTER 4\MULTIMEDIA TERAPAN\uas game\game - Reza\tugasgame\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\KULIAH\SEMESTER 4\MULTIMEDIA TERAPAN\uas game\game - Reza\tugasgame\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\KULIAH\SEMESTER 4\MULTIMEDIA TERAPAN\uas game\game - Reza\tugasgame\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\KULIAH\SEMESTER 4\MULTIMEDIA TERAPAN\uas game\game - Reza\tugasgame\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\KULIAH\SEMESTER 4\MULTIMEDIA TERAPAN\uas game\game - Reza\tugasgame\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\KULIAH\SEMESTER 4\MULTIMEDIA TERAPAN\uas game\game - Reza\tugasgame\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\KULIAH\SEMESTER 4\MULTIMEDIA TERAPAN\uas game\game - Reza\tugasgame\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\KULIAH\SEMESTER 4\MULTIMEDIA TERAPAN\uas game\game - Reza\tugasgame\Game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\KULIAH\SEMESTER 4\MULTIMEDIA TERAPAN\uas game\game - Reza\tugasgame\Game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  1.312 seconds
+Platform assembly: E:\KULIAH\SEMESTER 4\MULTIMEDIA TERAPAN\uas game\game - Reza\tugasgame\Game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\KULIAH\SEMESTER 4\MULTIMEDIA TERAPAN\uas game\game - Reza\tugasgame\Game_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 5.204711 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.079690 ms
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 746.
+Total: 15.130136 ms (FindLiveObjects: 0.218533 ms CreateObjectMapping: 0.133466 ms MarkObjects: 1.040844 ms  DeleteObjects: 13.727512 ms)
+
+Scene 'hard' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene 'hard' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.256711 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 746.
+Total: 1.557111 ms (FindLiveObjects: 0.207288 ms CreateObjectMapping: 0.129066 ms MarkObjects: 1.192400 ms  DeleteObjects: 0.018088 ms)
+
+Scene 'hard' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene 'hard' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene 'hard' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene 'hard' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene 'hard' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene 'hard' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene 'hard' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene 'hard' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene 'hard' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene 'hard' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene 'hard' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene 'hard' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene 'hard' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene 'hard' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene 'hard' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene 'hard' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene 'hard' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.194133 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 746.
+Total: 1.440266 ms (FindLiveObjects: 0.242977 ms CreateObjectMapping: 0.130533 ms MarkObjects: 1.038400 ms  DeleteObjects: 0.018088 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.094889 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 746.
+Total: 1.473022 ms (FindLiveObjects: 0.227333 ms CreateObjectMapping: 0.136888 ms MarkObjects: 1.079466 ms  DeleteObjects: 0.019555 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2bf0 -> priority: 1 
